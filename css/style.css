@@ -335,6 +335,9 @@ input:focus {
     border-radius: 6px;
     cursor: pointer;
   }
+  .header_btns {
+    display: none;
+  }
 }
 
 .main {
